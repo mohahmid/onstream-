@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "blocked": "on",
+    "blocked": "off",
     "new_package": "com.Onstream.mimo.on"
   }
 }
